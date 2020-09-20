@@ -1,0 +1,10 @@
+3dinpainting
+
+pth pytorch での重みの保存形式
+
+mesh
+video
+depth
+
+Midas
+
