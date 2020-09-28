@@ -1,6 +1,5 @@
 import os
 import numpy as np
-
 try:
     import cynetworkx as netx
 except ImportError:
